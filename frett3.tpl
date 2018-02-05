@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Fréttir</title>
-    <link rel="stylesheet" href="/static/still.css"/>
+    <link rel="stylesheet" href="/static/css.css"/>
     <meta charset="utf-8"/>
 </head>
 <body>
